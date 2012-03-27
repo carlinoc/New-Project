@@ -1,4 +1,5 @@
 function alerta(value){
-  alert(value);	
+  var valor = value;		
+  alert(valor);	
 }
 alert('hola');
